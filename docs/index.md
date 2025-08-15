@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XGRIDS Home
+title: Home
 ---
 
 <video width="640" height="360" controls>
