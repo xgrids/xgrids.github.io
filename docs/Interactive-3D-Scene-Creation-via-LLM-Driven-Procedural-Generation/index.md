@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interactive-3D-Scene-Creation-via-LLM-Driven-Procedural-Generation
+title: 
 ---
 
 ## Interactive-3D-Scene-Creation-via-LLM-Driven-Procedural-Generation
