@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 
+hide_from_nav: true
 ---
 
 ## Interactive-3D-Scene-Creation-via-LLM-Driven-Procedural-Generation
